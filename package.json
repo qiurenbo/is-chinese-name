@@ -1,13 +1,13 @@
 {
-	"name": "unicorn-fun",
-	"version": "0.0.0",
-	"description": "My awesome module",
+	"name": "is-chinese-name",
+	"version": "0.1.0",
+	"description": "Identify whether a string is chinese name or not.",
 	"license": "MIT",
-	"repository": "YOUR-GITHUB-USERNAME/unicorn-fun",
+	"repository": "https://github.com/qiurenbo/is-chinese-name",
 	"author": {
-		"name": "YOUR NAME",
-		"email": "YOUR EMAIL",
-		"url": "YOUR WEBSITE"
+		"name": "qiurenbo",
+		"email": "qiurenbo@outlook.com",
+		"url": "https://www.imwhite.com.cn"
 	},
 	"engines": {
 		"node": ">=8"
@@ -19,8 +19,7 @@
 		"index.js"
 	],
 	"keywords": [
-		"unicorn",
-		"fun"
+		"chinese name"
 	],
 	"dependencies": {},
 	"devDependencies": {
