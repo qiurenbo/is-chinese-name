@@ -1,4 +1,4 @@
-# is-chinese-name [![Build Status](https://travis-ci.com/qiurenbo/is-chinese-name.svg?token=YfiBLf3wyKtUxRiBhQan&branch=master)](https://travis-ci.com/qiurenbo/is-chinese-name)
+# is-chinese-name [![npm version](https://badge.fury.io/js/is-chinese-name.svg)](https://badge.fury.io/js/is-chinese-name)[![Build Status](https://travis-ci.com/qiurenbo/is-chinese-name.svg?token=YfiBLf3wyKtUxRiBhQan&branch=master)](https://travis-ci.com/qiurenbo/is-chinese-name)
 
 > Identify whether a string is chinese name or not.
 
