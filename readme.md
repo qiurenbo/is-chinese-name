@@ -1,4 +1,4 @@
-# is-chinese-name [![Build Status](https://travis-ci.com/YOUR-GITHUB-USERNAME/unicorn-fun.svg?branch=master)](https://travis-ci.com/YOUR-GITHUB-USERNAME/unicorn-fun)
+# is-chinese-name [![Build Status](https://travis-ci.com/qiurenbo/is-chinese-name.svg?token=YfiBLf3wyKtUxRiBhQan&branch=master)](https://travis-ci.com/qiurenbo/is-chinese-name)
 
 > Identify whether a string is chinese name or not.
 
