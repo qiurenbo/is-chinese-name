@@ -20,5 +20,5 @@ test('normal use should return true', () => {
 test('non string should throw error', () => {
 	expect(() => {
 		isChineseFamilyName({});
-	}).toThrow(new Error('Could not accept non-string type.'));
+	}).toThrow(new TypeError('Could not accept non-string type.'));
 });

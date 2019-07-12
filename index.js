@@ -25,6 +25,6 @@ module.exports = (toBeJudged) => {
 		}
 	}
 	else{
-		throw new Error('Could not accept non-string type.');
+		throw new TypeError('Could not accept non-string type.');
 	}
 };
